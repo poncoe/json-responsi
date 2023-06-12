@@ -1,5 +1,5 @@
 [
-  {"namakuchenk" : "Gandenk", "informasi" : "Bapaknya emon, Suaminya niba", "gambar" : "gandenk"},
-  {"namakuchenk" : "Niba", "informasi" : "Ibunya emon, Istrinya niba", "gambar" : "niba"},
-  {"namakuchenk" : "Emon", "informasi" : "Anaknya Gandenk dan Niba", "gambar" : "emon"}
+  {"namakuchenk" : "Gandenk", "informasi" : "Bapaknya emon, Suaminya niba", "gambar" : "gandenk.jpg"},
+  {"namakuchenk" : "Niba", "informasi" : "Ibunya emon, Istrinya niba", "gambar" : "niba.jpeg"},
+  {"namakuchenk" : "Emon", "informasi" : "Anaknya Gandenk dan Niba", "gambar" : "emon.jpg"}
 ]
