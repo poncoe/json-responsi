@@ -1,0 +1,5 @@
+[
+  {"gambar" : "https://github.com/poncoe/json-responsi/blob/main/niba.jpg?raw=true", "nama" : "Fanta", "harga" : 7000, "rating" : "5"},
+  {"gambar" : "https://github.com/poncoe/json-responsi/blob/main/gandenk.jpg?raw=true", "nama" : "Seprit", "harga" : 5000, "rating" : "4.6"},
+  {"gambar" : "https://github.com/poncoe/json-responsi/blob/main/emon.jpg?raw=true", "nama" : "Kokakola", "harga" : 10000, "rating" : "2.2"}
+]
